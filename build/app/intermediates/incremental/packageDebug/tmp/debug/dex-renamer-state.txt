@@ -1,0 +1,4 @@
+#Sat Jan 18 16:24:23 GMT-03:00 2020
+base.0=C\:\\src\\devbit\\Flutter-conversor-api\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
